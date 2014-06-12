@@ -14,11 +14,11 @@ public class Prueba {
 
  
 
- Menor menor = new Menor(3, 1); 
+ Menor menor = new Menor(300, 19); 
 
  int resultado = menor.menor(); 
 
- assertTrue(resultado == 1); 
+ assertTrue(resultado == 19); 
 
  
 
